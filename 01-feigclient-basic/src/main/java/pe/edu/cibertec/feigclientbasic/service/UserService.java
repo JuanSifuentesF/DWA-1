@@ -4,7 +4,6 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import pe.edu.cibertec.feigclientbasic.clientrest.placeholder.UserClient;
 import pe.edu.cibertec.feigclientbasic.clientrest.placeholder.model.User;
-
 import java.util.List;
 
 @RequiredArgsConstructor
