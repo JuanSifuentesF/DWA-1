@@ -1,0 +1,27 @@
+# Ignorar node_modules en cualquier subcarpeta
+**/node_modules/
+
+# Ignorar archivos de entorno
+.env
+.env.local
+
+# Ignorar archivos de IDE/editor
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Ignorar logs y carpetas de compilación
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+out/
+
+# Ignorar archivos de sistema (macOS/Windows)
+.DS_Store
+Thumbs.db
