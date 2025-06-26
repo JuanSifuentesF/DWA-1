@@ -21,5 +21,4 @@ public class GestionPagoController {
     return serviceDocenteClient.getDocente();
   }
 
-
 }

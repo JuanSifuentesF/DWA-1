@@ -9,6 +9,4 @@ public interface ServiceDocenteClient {
   @GetMapping("/docente")
   String getDocente();
 
-
-
 }
