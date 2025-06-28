@@ -1,0 +1,7 @@
+GET http://localhost:8030/api/v1/auth/login?usuario=jsifuentes&password=123456
+
+###
+GET http://localhost:8030/api/v1/demo/saludo
+Authorization: Bearer eyJhbGciOiJIUzM4NCJ9.eyJqdGkiOiIxIiwic3ViIjoianNpZnVlbnRlcyIsIkF1dGhvcml0aWVzIjpbIlJPTEVfVVNVQVJJTyJdLCJpYXQiOjE3NTExMzQyNzEsImV4cCI6MTc1MTEzNDU3MX0.T16EpISEiyLQu3LY3CCBshtowcsZFAe6lMO1CYoThloqlxcTt9csJAdtzFipildy
+
+###
