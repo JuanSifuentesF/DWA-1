@@ -7,7 +7,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 @EnableFeignClients
 @SpringBootApplication
 public class FeigclientBasicApplication {
-
+  //test
   public static void main(String[] args) {
     SpringApplication.run(FeigclientBasicApplication.class, args);
   }
